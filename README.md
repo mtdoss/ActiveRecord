@@ -9,3 +9,5 @@ This is a clone of ActiveRecord's ORM functionality. It involves heavy use of Ru
 * Builds has_many and belongs_to relationships 
 
 * Builds the #where method, allowing for custom database searches
+
+You can run the tests by running `bundle install` and then `rspec spec/`
